@@ -1,0 +1,1074 @@
+@import url("https://fonts.googleapis.com/css?family=Bonheur+Royale:regular&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Comforter:regular&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Zen+Kurenaido:regular&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Pacifico:regular&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Ruslan+Display:regular&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Stalinist+One:regular&display=swap");
+
+
+@font-face {
+   font-family: CircularStd;
+   src: url("../fonts/CircularStd-Book.woff2"), url("../fonts/CircularStd-Book.woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: CircularStd;
+   src: url("../fonts/CircularStd-Bookitalic.woff2"), url("../fonts/CircularStd-BookItalic.woff");
+   font-weight: 400;
+   font-style: italic;
+   font-display: swap;
+}
+@font-face {
+   font-family: CircularStd;
+   src: url("../fonts/CircularStd-Black.woff2"), url("../fonts/CircularStd-Black.woff");
+   font-weight: 900;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: CircularStd;
+   src: url("../fonts/CircularStd-Bold.woff2"), url("../fonts/CircularStd-Bold.woff");
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: CircularStd;
+   src: url("../fonts/CircularStd-Medium.woff2"), url("../fonts/CircularStd-Medium.woff");
+   font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+   font-family: DotGothic16;
+   src: url("../fonts/DotGothic16-Regular.woff2"), url("../fonts/DotGothic16-Regular.woff");
+   font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+   font-family: 'Train One';
+   src: url("../fonts/TrainOne-Regular.woff2"), url("../fonts/TrainOne-Regular.woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Rampart One';
+   src: url("../fonts/RampartOne-Regular.woff2"), url("../fonts/RampartOne-Regular.woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Zen Kurenaido';
+   src: url("../fonts/ZenKurenaido-Regular.woff2"), url("../fonts/ZenKurenaido-Regular.woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Izhitsa Shadow CTT';
+   src: url("../fonts/IzhitsaShadowC-Regular.woff2"), url("../fonts/IzhitsaShadowC-Regular.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Aoudax Cyrillic';
+   src: url("../fonts/AoudaxCyrillic.woff2"), url("../fonts/AoudaxCyrillic.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: Imperial;
+   src: url("../fonts/Imperial.woff2"), url("../fonts/Imperial.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: Marutya;
+   src: url("../fonts/Marutya.woff2"), url("../fonts/Marutya.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'RussianPunk';
+   src: url("../fonts/RussianPunk.woff2"), url("../fonts/RussianPunk.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Cyrillic Old Face';
+   src: url("../fonts/CyrillicOldFace.woff2"), url("../fonts/CuteNotesrusbyaLiNcE.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'mr_HamiltoneG';
+   src: url("../fonts/mr_HamiltoneG.woff2"), url("../fonts/mr_HamiltoneG.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Calibri';
+   src: url("../fonts/Calibri-Bold.woff2"), url("../fonts/Calibri-Bold.woff");
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Ustroke';
+   src: url("../fonts/Ustroke-Regular.woff"),url("../fonts/TrainOne-Regular.woff2");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Space Age Cyrillic';
+   src: url("../fonts/SpaceAgeCyrillic-Regular.woff2"), url("../fonts/SpaceAgeCyrillic-Regular.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'MariageAntD';
+   src: url("../fonts/MariageAntD.woff2"), url("../fonts/MariageAntD.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: '19192';
+   src: url("../fonts/19192.woff2"), url("../fonts/19192.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'English Rose';
+   src: url("../fonts/EnglishRose.woff2"), url("../fonts/EnglishRose.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Base02Cyrillic2';
+   src: url("../fonts/Base02Cyrillic2-Regular.woff2"), url("../fonts/Base02Cyrillic2-Regular.woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+body {
+   padding: 20px;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+.image {
+   width: 1480px;
+   height: 700px;
+   margin: 0 0 50px 0;
+   outline: 2px solid rgb(87, 87, 255);
+}
+.title {
+   font-family: Imperial;
+   font-style: normal;
+   font-size: 90px;
+   font-weight: 700;
+   color:  rgb(0,192,255);
+   text-shadow: 2px 0 1px black;
+   margin: 0 0 40px 0;
+   letter-spacing: 10px;
+   text-align: center;
+}
+.menu {
+   margin-left: 340px;
+   padding-top: 15px;
+   width: 800px;
+   height: 50px;
+   border: 2px solid rgb(150, 114, 223);
+   text-align: center;
+   word-spacing: 40px;
+}
+.list li {
+   display: inline;
+   font-family: 'Aoudax Cyrillic';
+   font-style: normal;
+   font-size: 25px;
+   color: rgb(150, 114, 223);
+   margin: 0 0 60px 0;
+}
+.block_2 {
+   margin: 0 0 50px 0;
+}
+.image_1, .image_2, .image_3 {
+   margin-top: 30px;
+   display: inline;
+   width: 450px;
+   height: 270px;
+   outline:  2px solid black;
+   border-radius: 50px;
+   box-shadow: 3px 3px 5px rgb(0, 255, 255);
+}
+.image_2, .image_3 {
+   margin-left: 55px;
+}
+.list-1 li {
+   color: rgb(222, 184, 135);
+   font-family: 'Zen Kurenaido';
+   font-size: 25px;
+   font-weight: 700;
+   font-style: normal;
+   display: inline;
+   margin-left: 20px;
+   border: 3px solid rgb(222, 184, 135);
+   border-radius: 30px 0 30px 0;
+   box-shadow: 3px 3px 5px black;
+   padding: 10px;
+}
+.list-1 {
+   margin: 0 0 50px 0;
+}
+.list-2 li {
+   color: rgb(222, 184, 135);
+   font-family: 'Zen Kurenaido';
+   font-size: 25px;
+   font-weight: 700;
+   font-style: normal;
+   display: inline;
+   border: 3px solid rgb(222, 184, 135);
+   border-radius: 30px 0 30px 0;
+   box-shadow: 3px 3px 5px black;
+   margin-left: 60px;
+   padding: 10px;
+}
+.list-2 {
+   margin: 0 0 60px 0;
+}
+.link_1 {
+   text-align: center;
+}
+.link_2 {
+   text-align: center;
+}
+.block_3 {
+   width: 1300;
+}
+.subtitle {
+   font-family: 'Rampart One';
+   color: rgb(50, 205, 50);
+   font-size: 45px;
+   font-style: normal;
+   text-align: center;
+   text-decoration: underline;
+   text-shadow: 2px 0 1px black, 0 0 1em rgb(178, 207, 13);
+   margin: 0 0 30px 0;
+}
+.text {
+   font-family: 'Train One';
+   font-size: 20px;
+   color: rgb(205, 92, 92);
+   text-align: justify;
+   text-shadow: 2px 0 1px black;
+   text-indent: 40px;
+   border: 3px solid rgb(205, 92, 92);
+   border-radius: 10px;
+   background-color: rgb(122, 149, 107);
+   box-shadow: 3px 3px 5px black;
+   padding: 5px;
+   margin: 0 0 20px 0;
+}
+.block-4 {
+   margin: 0 0 30px 0;
+}
+.image_4, .image_5, .image_6 {
+   display: inline;
+   border-radius: 50%;
+   width: 300px;
+   height: 300px;
+   overflow: hidden;
+   outline: 3px solid olivedrab;
+   box-shadow: 1px 1px 10px black;
+}
+.image_5, .image_6 {
+   margin-left: 285px;
+}
+.block-5 {
+   margin: 0 0 40px 0;
+}
+#section-1 {
+   font-family: 'Ruslan Display';
+   font-size: 50px;
+   color: rgb(105, 105, 105);
+   text-align: left;
+   text-decoration: underline;
+   text-shadow: 2px 0 1px black;
+   margin: 0 0 20px 0;
+}
+.text-1 {
+   font-family: Imperial;
+   font-size: 30px;
+   font-weight: 900;
+   color: rgb(0, 0, 0);
+   letter-spacing: 4px;
+   text-align: right;
+   text-shadow: 2px 0 1px rgb(128, 128, 128);
+   text-indent: 50px;
+   padding: 10px;
+   border: 3px dashed black;
+   background-color: #77608d;
+   box-shadow: 1px 1px 8px rgb(0, 250, 229);
+}
+.text-2 {
+   font-family: Imperial;
+   font-size: 30px;
+   font-weight: 700;
+   color: black;
+   letter-spacing: 5px;
+   text-align: justify;
+   text-indent: 30px;
+   border: 3px solid black;
+   box-shadow: inset 10px 10px 10px #77608d;
+   padding: 10px;
+}
+.text-3 {
+   font-family: Imperial;
+   font-size: 30px;
+   font-weight: normal;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   text-transform: capitalize;
+   border: 3px dotted rgb(255, 255, 255);
+   box-shadow: 3px 3px 8px rgb(0, 0, 0);
+   background-color: rgb(0, 0, 0);
+   padding: 10px;
+   letter-spacing: 5px;
+}
+.block-6 {
+   margin: 0 0 40px 0;
+}
+#section-2 {
+   font-family: Pacifico;
+   font-size: 50px;
+   text-align: center;
+   color: rgb(221, 160, 221);
+   text-shadow: 3px 0 1px rgb(255, 0, 255);
+   margin: 0 0 20px 0;
+}
+.text-4 {
+   font-family: Marutya;
+   font-size: 25px;
+   text-align: left;
+   color: rgb(128, 128, 0);
+   text-transform: lowercase;
+   text-indent: 30px;
+   border: 3px solid rgb(139, 69, 19);
+   border-radius: 50px 0 50px 0;
+   box-shadow: 3px 3px 9px rgb(255, 0, 0);
+   letter-spacing: 5px;
+   padding: 10px;
+}
+.text-5 {
+   font-family: Marutya;
+   font-size: 25px;
+   text-align: left;
+   color: rgb(128, 128, 0);
+   text-transform: lowercase;
+   text-indent: 30px;
+   border: 3px solid rgb(139, 69, 19);
+   border-radius: 50px;
+   box-shadow: 3px 3px 9px rgb(255, 0, 0);
+   letter-spacing: 5px;
+   padding: 10px;
+}
+.text-6 {
+   font-family: Marutya;
+   font-size: 25px;
+   text-align: left;
+   color: rgb(128, 128, 0);
+   text-transform: lowercase;
+   letter-spacing: 5px;
+   text-indent: 30px;
+   border: 3px solid rgb(139, 69, 19);
+   border-radius: 0 50px 0 50px;
+   box-shadow: 3px 3px 9px rgb(255, 0, 0);
+   padding: 10px;
+}
+.block-7 {
+   margin: 0 0 40px 0;
+}
+#section-3 {
+   font-family: Comforter;
+   font-size: 50px;
+   color: rgb(0, 100, 0);
+   font-weight: 900;
+   text-align: right;
+   text-decoration: underline;
+   letter-spacing: 5px;
+   text-shadow: 3px 0 1px rgb(173, 255, 47);
+   margin: 0 0 20px 0;
+}
+.text-7 {
+   color: rgb(0, 100, 0);
+   font-family: 'RussianPunk';
+   font-size: 25px;
+   font-weight: normal;
+   text-align: right;
+   text-shadow: 2px 0 1px rgb(173, 255, 47);
+   padding: 10px;
+   border-right: 3px solid rgb(0, 128, 0);
+   border-bottom: 3px solid rgb(0, 128, 0);
+   border-radius: 30px;
+   box-shadow: 4px 4px 10px rgb(173, 255, 47);
+}
+.text-8 {
+   color: rgb(0, 100, 0);
+   font-family: 'RussianPunk';
+   font-size: 25px;
+   font-weight: normal;
+   text-align: right;
+   text-shadow: 2px 0 1px rgb(255, 251, 0);
+   padding: 10px;
+   border-left: 3px solid rgb(0, 128, 0);
+   border-bottom: 3px solid rgb(0, 128, 0);
+   border-radius: 30px;
+   box-shadow: 4px 4px 10px rgb(173, 255, 47);
+}
+.text-9 {
+   color: rgb(0, 100, 0);
+   font-family: 'RussianPunk';
+   font-size: 25px;
+   font-weight: normal;
+   text-align: right;
+   text-shadow: 2px 0 1px rgb(255, 0, 0);
+   padding: 10px;
+   border-top: 3px solid rgb(0, 128, 0);
+   border-bottom: 3px solid rgb(0, 128, 0);
+   border-radius: 30px;
+   box-shadow: 4px 4px 10px rgb(173, 255, 47);
+   text-decoration: line-through;
+}
+.block-8 {
+   margin: 0 0 40px 0;
+}
+#section-4 {
+   font-family: 'Cyrillic Old Face';
+   font-size: 50px;
+   color: rgb(255, 0, 0);
+   text-align: left;
+   margin: 0 0 20px 0;
+}
+.text-10 {
+   font-family: 'Cyrillic Old Face';
+   font-size: 25px;
+   font-style: italic;
+   color: rgb(30, 97, 75);
+   border: 3px solid rgb(30, 97, 75);
+   padding: 10px;
+   text-indent: 50px;
+}
+.text-11 {
+   font-family: 'Cyrillic Old Face';
+   font-size: 25px;
+   color: rgb(8, 172, 194);
+   border-bottom: 3px solid rgb(30, 97, 75);
+   border-top: 3px solid rgb(30, 97, 75);
+   padding: 10px;
+   text-indent: 50px;
+   text-align: right;
+}
+.text-12 {
+   font-family: 'Cyrillic Old Face';
+   font-size: 25px;
+   color: rgba(86, 89, 248, 0.342);
+   border-left: 3px solid rgb(30, 97, 75);
+   border-right: 3px solid rgb(30, 97, 75);
+   padding: 10px;
+   text-indent: 50px;
+   text-align: center;
+}
+.text-13 {
+   font-family: 'Cyrillic Old Face';
+   font-size: 25px;
+   color: rgba(10, 10, 10, 0.486);
+   border-left: 3px solid rgb(255, 167, 3);
+   border-right: 3px solid rgb(255, 0, 0);
+   border-top: 3px solid rgb(0, 4, 255);
+   border-bottom: 3px solid rgb(1, 155, 1);
+   border-radius: 30px;
+   padding: 10px;
+   text-indent: 50px;
+   background-color: #00ffff5e;
+   text-align: justify;
+}
+.text-14 {
+   font-family:'Cyrillic Old Face';
+   font-size: 55px;
+   color: rgba(10, 10, 10, 0.486);
+   border-left: 3px solid rgb(0, 191, 255);
+   border-right: 3px solid rgb(255, 0, 255);
+   border-top: 3px solid rgb(0, 191, 255);
+   border-bottom: 3px solid rgb(255, 0, 255);
+   border-radius: 30px 0 30px 0;
+   padding: 10px;
+   text-indent: 50px;
+}
+.block-9 {
+   margin: 0 0 30px 0;
+}
+#section-5 {
+   font-family: Imperial;
+   font-size: 40px;
+   font-weight: 900;
+   color: rgb(123, 104, 238);
+   text-align: right;
+   text-shadow: 2px 0 1px rgb(0, 0, 139);
+   letter-spacing: 5px;
+   border: 3px solid rgb(0, 0, 139);
+   border-radius: 30px 0 30px 0 ;
+   box-shadow: 3px 3px 7px rgb(123, 104, 238);
+   padding: 10px;
+   background-color: rgba(255, 0, 255, 0.466);
+   margin: 0 0 20px 0;
+}
+.block_4 {
+   display: inline-block;
+   margin: 0 0 20px 0;
+   width: 300px;
+   height: 340px;
+   vertical-align: top;
+   border: 3px solid rgb(0, 0, 139);
+   border-radius: 30px;
+   box-shadow: 3px 3px 7px rgb(123, 104, 238);
+   background-color: rgba(255, 0, 255, 0.466);
+   padding: 10px;
+}
+.block_5 {
+   display: inline-block;
+   border: 3px solid rgb(0, 0, 139);
+   border-radius: 30px;
+   box-shadow: 3px 3px 7px rgb(123, 104, 238);
+   background-color: rgba(255, 0, 255, 0.466);
+   width: 300px;
+   height: 340px;
+   padding: 10px;
+   vertical-align: top;
+   margin-left: 88px;
+}
+.block_6 {
+   display: inline-block;
+   width: 300px;
+   height: 340px;
+   border: 3px solid rgb(0, 0, 139);
+   box-shadow: 3px 3px 7px rgb(123, 104, 238);
+   background-color: rgba(255, 0, 255, 0.466);
+   border-radius: 30px;
+   padding: 10px;
+   vertical-align: top;
+   margin-left: 88px;
+}
+.block_7 {
+   display: inline-block;
+   width: 300px;
+   height: 340px;
+   border: 3px solid rgb(0, 0, 139);
+   box-shadow: 3px 3px 7px rgb(123, 104, 238);
+   background-color: rgba(255, 0, 255, 0.466);
+   border-radius: 30px;
+   padding: 10px;
+   margin-left: 88px;
+}
+.image_7 {
+   width: 40px;
+   height: 25px;
+   display: inline;
+   position: relative;
+}
+.image_8 {
+   width: 40px;
+   height: 20px;
+   display: inline;
+   position: relative;
+}
+.text-15,.text-16, .text-17, .text-18 {
+   font-family: 'Calibri';
+   font-size: 17px;
+   font-weight: 400;
+   color: rgb(123, 104, 238);
+   text-align: justify;
+   display: inline;
+   margin-left: 5px;
+}
+.linl_3, .link_4, .link_5, .link_6, .link_7, .link_8, .link_9, .link_10 {
+   color: rgb(0, 128, 0);
+}
+.block-10 {
+   margin: 0 0 30px 0;
+}
+#section-6 {
+   border: 3px solid rgb(0, 0, 0);
+   text-align: center;
+   font-family: 'Ustroke';
+   font-size: 40px;
+   margin: 0 0 20px 0;
+}
+.text-19, .text-20, .text-21, .text-22 {
+   font-family: 'Ustroke';
+   font-size: 18px;
+   padding: 10px;
+   display: inline;
+}
+.image_9 {
+   width: 30px;
+   display: inline;
+   position: relative;
+}
+.block_8 {
+   border: 3px solid rgb(0, 0, 0);
+   display: inline-block;
+   width: 360px;
+   height: 425px;
+   padding: 10px;
+}
+.block_9, .block_10, .block_11 {
+   display: inline-block;
+   border: 3px solid rgb(0, 0, 0);
+   width: 360px;
+   height: 425px;
+   padding: 10px;
+   vertical-align: top;
+   margin-left: 10px;
+}
+.block_8, .block_9, .block_10, .block_11 {
+   margin: 0 0 5px 0;
+}
+.block_9, .block_10, .block_11 {
+   margin-left: 9px;
+}
+.subtitle_1 {
+   font-family: 'Ustroke';
+   font-size: 25px;
+   color: rgb(255, 0, 0);
+}
+.block_12 {
+   border: 3px solid rgb(0, 0, 0);
+   width: 1480px;
+   height: 100px;
+   padding: 10px;
+   font-family: 'Ustroke';
+   font-size: 18px;
+}
+.block-11 {
+   margin: 0 0 30px 0;
+}
+#section-7 {
+   font-family: 'Space Age Cyrillic';
+   font-size: 40px;
+   font-weight: 700;
+   height: 70px;
+   color: rgb(0, 0, 255);
+   border: 3px dashed rgb(45, 0, 148);
+   background-color: rgba(128, 128, 128, 0.507);
+   box-shadow: 4px 4px 9px rgb(0, 0, 255);
+   text-align: left;
+   padding: 7px;
+   border-radius: 0 30px 0 30px;
+   margin: 0 0 10px 0;
+}
+.block_13, .block_14, .block_15 {
+   font-family: 'Space Age Cyrillic';
+   font-size: 20px;
+   color: rgb(0, 0, 255);
+   width: 400px;
+   height: 560px;
+   border: 3px dashed rgb(45, 0, 148);
+   background-color: rgba(128, 128, 128, 0.507);
+   box-shadow: 4px 4px 9px rgb(0, 0, 255);
+   border-radius: 30px 0 30px 0;
+   padding: 10px;
+   display: inline-block;
+   vertical-align: top;
+   margin: 0 0 20px 0;
+}
+.block_14, .block_15 {
+   margin-left: 135px;
+}
+.image_10 {
+   width: 50px;
+   height: 40px;
+}
+.block-12 {
+   margin: 0 0 30px 0;
+}
+#section-8 {
+   font-family: 'MariageAntD';
+   font-size: 50px;
+   font-weight: 500;
+   width: 400px;
+   height: 70px;
+   color: rgb(128, 128, 128);
+   border: 3px dashed rgb(128, 128, 128);
+   background-color: rgba(255, 160, 122, 0.486);
+   box-shadow: 4px 4px 9px rgb(197, 86, 7);
+   text-align: center;
+   padding: 7px;
+   border-radius: 0 30px 0 30px ;
+   margin: 0 0 10px 0;
+}
+.block_16, .block_17, .block_18, .block_19 {
+   font-family: 'MariageAntD';
+   font-size: 30px;
+   font-weight: 500;
+   width: 350px;
+   height: 420px;
+   color: rgb(128, 128, 128);
+   border: 3px dotted rgb(128, 128, 128);
+   background-color: rgba(255, 160, 122, 0.486);
+   box-shadow: 4px 4px 9px rgb(197, 86, 7);
+   text-align: justify;
+   padding: 10px;
+   border-radius: 0 30px 0 30px ;
+   display: inline-block;
+   vertical-align: top;
+   letter-spacing: 1px;
+   margin: 0 0 30px 0;
+}
+.block_17, .block_18, .block_19 {
+   margin-left: 22px;
+}
+.image_11 {
+   width: 50px;
+   height: 40px;
+}
+.block-13 {
+   margin: 0 0 30px 0;
+   width: 1490px;
+   height: 500px;
+   border: 5px dotted rgb(243, 199, 199);
+   background-color: rgb(102, 102, 102);
+   border-radius: 50px;
+   overflow: auto;
+   padding: 20px;
+   box-shadow: 4px 4px 8px rgb(99, 99, 99);
+}
+#section-9 {
+   font-family: Imperial;
+   font-size: 40px;
+   letter-spacing: 3px;
+   color: rgb(243, 199, 199);
+   border: 5px dotted rgb(243, 199, 199);
+   border-radius: 50px;
+   background-color: rgb(128, 128, 128);
+   text-decoration: underline;
+   width: 550px;
+   height: 70px;
+   padding: 10px;
+   margin: 0 0 20px 0;
+   padding-bottom: 7px;
+   text-align: center;
+   box-shadow: 4px 4px 8px rgb(99, 99, 99);
+}
+.block_20, .block-21 {
+   margin: 0 0 10px 0;
+}
+.text-31, .text-32, .text-33, .text-34, .text-35 {
+   font-family: Imperial;
+   font-size: 30px;
+   letter-spacing: 3px;
+   font-weight: 500;
+   line-height: 35px;
+   text-align: justify;
+   width: 1300px;
+   border: 3px solid rgb(243, 199, 199);
+   border-radius: 10px;
+   margin: 0 0 20px 0;
+   padding: 10px;
+   color: rgb(243, 199, 199);
+   box-shadow: 4px 4px 9px rgb(243, 199, 199);
+}
+.text-32 {
+   background-color: rgb(255, 228, 196);
+   opacity: 0.5;
+   color: rgb(119, 96, 141);
+   box-shadow: 4px 4px 9px rgb(255, 228, 196);
+}
+.text-33 {
+   background-color: rgb(245, 245, 245);
+   color: rgb(252, 129, 129);
+   font-weight: 700;
+   box-shadow: 4px 4px 9px rgb(255, 34, 34);
+   border: 3px solid rgb(255, 68, 68);
+}
+.text-34 {
+   background-color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
+   box-shadow: 4px 4px 9px rgb(0, 0, 0);
+   border: 3px solid rgb(255, 255, 255);
+}
+.text-35 {
+   background-color: rgb(255, 255, 255);
+   color: rgb(0, 164, 219);
+   box-shadow: 4px 4px 9px rgb(0, 191, 255);
+   border: 3px solid rgb(70, 130, 180);
+}
+.text-36, .text-37, .text-37, .text-38, .text-39, .text-40, .text-41, .text-42 {
+   font-family: 'Ustroke';
+   width: 1300px;
+   border: 5px dotted rgb(255, 255, 255);
+   margin: 0 0 20px 0;
+   padding: 10px;
+   letter-spacing: 2px;
+   line-height: 25px;
+   font-size: 20px;
+   background-color: rgb(0, 0, 0);
+   color: rgb(255, 255, 255);
+   box-shadow: 4px 4px 9px rgb(0, 0, 0);
+   text-align: center;
+}
+.text-37 {
+   background-color: rgb(255, 255, 255);
+   color: rgb(17, 209, 43);
+   box-shadow: 4px 4px 9px rgb(255, 255, 0);
+   border: 4px dotted rgb(17, 209, 43);
+   border-radius: 50px;
+   text-align: left;
+}
+.link_11, .link_12, .link_13, .link_14, .link_15 {
+   color: rgb(0, 128, 0);
+}
+.text-38 {
+   background-color: rgb(0, 191, 255);
+   color: rgb(0, 0, 0);
+   box-shadow: 4px 4px 9px rgb(0, 191, 255);
+   border: 4px dashed rgb(0, 0, 0);
+   border-radius: 30px 30px 0 0;
+   text-align: justify;
+}
+.text-39 {
+   color: rgb(255, 0, 0);
+   border-bottom: 4px dotted rgb(255, 0, 0);
+   border-right: 4px dotted rgb(255, 0, 0);
+   border-top: 4px dashed rgb(0, 128, 0);
+   border-left: 4px dashed rgb(0, 128, 0);
+   background-color: rgb(255, 255, 255);
+   border-radius: 30px 0 30px 0;
+   text-align: right;
+   box-shadow: 4px 4px 9px rgb(255, 0, 0);
+}
+.text-40 {
+   background-color: rgb(0, 0, 0);
+   color: rgb(255, 255, 0);
+   box-shadow: 4px 4px 9px rgb(255, 255, 0);
+   border: 4px dashed rgb(255, 255, 0);
+   border-radius: 0 30px 0 30px;
+   text-align: justify;
+}
+.text-41 {
+   background-color: rgb(255, 255, 255);
+   color: rgb(0, 0, 255);
+   box-shadow: 4px 4px 9px rgb(0, 0, 255);
+   border: 4px solid rgb(0, 0, 255);
+   text-align: justify;
+}
+.text-42 {
+   background-color: rgb(0, 0, 0);
+   color: rgb(255, 255, 255);
+   box-shadow: 4px 4px 9px rgb(0, 128, 0);
+   border: 4px dotted rgb(0, 128, 0);
+   text-align: justify;
+}
+.block-22 {
+   display: inline;
+}
+.image_12 {
+   width: 330px;
+   height: 320px;
+   border-radius: 30%;
+   overflow: hidden;
+   margin-left: 20px;
+   outline: 3px solid rgb(255, 255, 255);
+   box-shadow: 3px 3px 8px rgb(255, 255, 255);
+}
+.block-14 {
+   margin: 0 0 30px 0;
+}
+#section-10 {
+   font-family: '19192';
+   font-size: 50px;
+   color: rgb(152, 75, 224);
+   text-shadow: 2px 0 1px rgb(0, 0, 0);
+   margin: 0 0 20px 0;
+   border: 5px dashed rgb(152, 75, 224);
+   box-shadow: 4px 4px 9px rgb(152, 75, 224);
+   border-radius: 5px;
+   padding: 10px;
+   text-align: center;
+}
+.image_13 {
+   width: 50px;
+   height: 30px;
+   display: inline;
+   position: relative;
+}
+.block-23, .block-24, .block-25, .block-26 {
+   margin: 0 0 20px 0;
+}
+.block-23 {
+   width: 300px;
+   height: 530px;
+   display: inline-block;
+   vertical-align: top;
+   border: 3px solid rgb(252, 247, 0);
+   padding: 10px;
+}
+.block-24 {
+   width: 400px;
+   border: 3px dashed rgb(96, 244, 116);
+   display: inline-block;
+   border-radius: 30px 0 30px 0;
+   margin-left: 5px;
+   padding: 10px;
+   margin-left: 20px;
+   height: 530px;
+}
+.block-25 {
+   width: 400px;
+   border: 3px dashed rgb(25, 0, 255);
+   display: inline-block;
+   margin-left: 5px;
+   border-radius: 0 30px 0 30px;
+   padding: 10px;
+   vertical-align: top;
+   margin-left: 20px;
+   height: 530px;
+}
+.block-26 {
+   width: 300px;
+   border: 3px solid rgb(255, 0, 0);
+   display: inline-block;
+   padding: 10px;
+   vertical-align: top;
+   margin-left: 20px;
+   height: 530px;
+}
+.text-43, .text-44, .text-45, .text-46 {
+   font-family: '19192';
+   font-size: 25px;
+   color: rgb(152, 75, 224);
+   letter-spacing: 3px;
+   word-spacing: 3px;
+   display: inline;
+   margin: 0 0 10px 0;
+}
+.link_16, .link_17, .link_18{
+   color: rgb(0, 128, 0);
+}
+.block-15 {
+   margin: 0 0 30px 0;
+}
+#section-11 {
+   font-family: 'Base02Cyrillic2';
+   font-size: 40px;
+   margin: 0 0 10px 0;
+   border-top: 3px solid rgb(0, 0, 0);
+   border-bottom: 3px solid rgb(255, 0, 0);
+   padding: 10px;
+}
+.block-27, .block-28, .block-29, .block-30 {
+   border-top: 3px solid rgb(0, 0, 0);
+   border-bottom: 3px solid rgb(255, 0, 0);
+   box-shadow: 4px 4px 10px rgb(105, 105, 105);
+   border-radius: 30px;
+   padding: 10px;
+   margin: 0 0 10px 0;
+}
+span {
+   color: rgb(255, 0, 0);
+}
+.text-47, .text-48, .text-49,.text-50 {
+   font-family: 'Base02Cyrillic2';
+   text-align: center;
+   line-height: 20px;
+}
+.block-16 {
+   margin: 0 0 40px 0;
+}
+#section-12 {
+   font-family: 'English Rose';
+   font-size: 40px;
+   margin: 0 0 10px 0;
+   color: rgb(84, 63, 223);
+   border: 3px solid rgb(89, 71, 212);
+   padding: 10px;
+   width: 300px;
+   text-align: center;
+   background-color: rgba(238, 130, 238, 0.61);
+   box-shadow: 4px 4px 10px rgb(255, 0, 255);
+}
+.block-31, .block-32 {
+   border: 3px solid rgb(89, 71, 212);
+   padding: 10px;
+   margin: 0 0 10px 0;
+   border-radius: 30px 0 30px 0;
+   background-color: rgba(238, 130, 238, 0.61);
+   box-shadow: 4px 4px 10px rgb(255, 0, 255);
+}
+.text-51, .text-52 {
+   font-family: 'English Rose';
+   font-size: 25px;
+   color: rgb(84, 63, 223);
+}
+.block-17 {
+   border: 4px solid rgb(0, 0, 0);
+   padding: 5px;
+   width: 200px;
+   text-align: center;
+   border-radius: 60px;
+   background-color: rgb(0, 0, 0);
+   box-shadow: 4px 4px 10px rgb(255, 0, 0);
+   margin-left: 650px;
+}
+.block-18 {
+   border: 4px solid rgb(0, 0, 0);
+   padding: 5px;
+   width: 200px;
+   text-align: center;
+   margin-left: 650px;
+   border-radius: 60px;
+   background-color: rgb(0, 0, 0);
+   box-shadow: 4px 4px 10px rgb(0, 255, 255);
+}
+
+.block-17:hover {
+   border: 4px solid rgb(255, 0, 0);
+}
+.block-18:hover {
+   border: 4px solid rgb(0, 255, 255);
+}
+.link_19, .link_20 {
+   font-family: '19192';
+   font-size: 40px;
+}
+.link_19:hover {
+   color: red;
+}
+.link_20:hover {
+   color: rgb(0, 255, 255);
+}
